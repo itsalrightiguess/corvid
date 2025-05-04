@@ -1,5 +1,5 @@
 # corvid
-language learning app
+language learning app. a work in progress.
 
 to build:
     ````cargo build````
